@@ -1,0 +1,25 @@
+.images {
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  opacity: 0.9;
+}
+
+.winner {
+  height: 5vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  opacity: 0.9;
+}
+
+.score {
+  height: 30vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  opacity: 0.9;
+}
